@@ -1,6 +1,10 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Darshan Patil 
 
-Front-end developer with knack of creating attractive user interfaces. Student of  BE in Computer Engineering graduating in 2022. Im a critical thinker, problem solver, Quick learner,Ambitious.Playing around with JS is what I do for fun.On a voyage to explore the field of Web Development.Experince with working with technologies listed in the **toolbox** below.
+Front-end developer with knack of creating attractive user interfaces. Student of  BE in Computer Engineering graduating in 2022. 
+Im a critical thinker, problem solver, Quick learner,Ambitious.Playing around with JS is what I do for fun.
+On a voyage to explore the field of Web Development.
+Experince with working with technologies listed in the toolbox below. 
+
 ---
 <!--
 **darshan420/darshan420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
