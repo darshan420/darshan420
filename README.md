@@ -1,9 +1,9 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Darshan Patil 
 
 Front-end developer with knack of creating attractive user interfaces. Student of  BE in Computer Engineering graduating in 2022. 
-Im a critical thinker, problem solver, Quick learner,Ambitious.Playing around with JS is what I do for fun.
+Im a critical thinker, problem solver, quick learner, ambitious. Playing around with JS is what I do for fun.
 On a voyage to explore the field of Web Development.
-Experince with working with technologies listed in the toolbox below. 
+Experience with working with technologies listed in the toolbox below. 
 
 ---
 <h1>🧰 Tool Box</h1>
